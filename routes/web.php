@@ -13,7 +13,7 @@ use App\Http\Controllers\Candidate;
 use App\Http\Controllers\EmployeeType;
 use App\Http\Controllers\Employee;
 use App\Http\Controllers\Department;
-           
+
 
 
 
